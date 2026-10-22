@@ -1,6 +1,5 @@
 
 
-https://github.com/user-attachments/assets/9d133837-acd7-4f5f-a0a2-944d146a6acc
 
 
 # Multi-Agent Financial Research Analyst
